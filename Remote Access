@@ -1,7 +1,9 @@
 remote access
 
-git remote add origin git@github:yizhouzhao/Courses.git
+git remote add origin git@github.com:yizhouzhao/Courses.git
 
 git remote rm origin
 
 git push origin master
+
+git clone git@github.com:michaelliao/gitskills.git
