@@ -1,0 +1,7 @@
+remote access
+
+git remote add origin git@github:yizhouzhao/Courses.git
+
+git remote rm origin
+
+git push origin master
