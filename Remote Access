@@ -15,3 +15,7 @@ git branch -d <name> 删除branch
 git checkout <name> 切换
 git checkout -b <name> 创建并切换
 git merge <name> 合并某分支到到当前
+
+git tag <创建标签>
+git tag -a <name> -m <desciption>
+
